@@ -1,2 +1,1 @@
-# My-first-project.
-This is my first project on GitHub
+Executed a comprehensive data analysis project involving data wrangling, imputation, merging, and feature engineering across multiple structured datasets related to employee project allocations. Leveraged Python (Pandas) to clean, transform, and derive actionable insights from organizational project data.
