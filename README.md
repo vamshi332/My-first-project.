@@ -1,4 +1,5 @@
 Project overview:- Executed a comprehensive data analysis project involving data wrangling, imputation, merging, and feature engineering across multiple structured datasets related to employee project allocations. Leveraged Python (Pandas) to clean, transform, and derive actionable insights from organizational project data.
+
 ->Key Responsibilities & Analytical Contributions:
  -Integrated multiple datasets including Project Details, Employee Information, and Seniority Levels using efficient joins on common keys (ID), enabling holistic organizational reporting.
  -Cleansed and handled missing values in the 'Cost' column using a running average imputation technique, preserving data continuity and minimizing analytical distortion.
